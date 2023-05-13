@@ -1,0 +1,24 @@
+.slider img {
+  width: 100%;
+}
+
+.slider .carousel-indicators .active {
+  background: linear-gradient(to left, green, yellow);
+  height: 8px;
+  width: 55px;
+  border-radius: 5px;
+}
+.slider .carousel-indicators li {
+  background: #cecece;
+  height: 8px;
+  width: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.slider h1 {
+  color: #1f1f1f;
+}
+.slider p {
+  color: #707070;
+}

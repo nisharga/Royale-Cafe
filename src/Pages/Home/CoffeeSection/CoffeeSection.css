@@ -1,0 +1,46 @@
+.buy-btn {
+  background: #000;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+}
+.buy-btn:hover {
+  text-decoration: none;
+}
+
+.card {
+  padding: 20px;
+}
+.card img {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.card-title {
+  font-size: 24px;
+  color: #1f1f1f;
+}
+
+.card-text {
+  color: #707070;
+}
+
+.see-btn {
+  font-size: 22px;
+  color: #ff9d00;
+  text-decoration: none;
+}
+.see-btn:hover {
+  text-decoration: none;
+}
+.head {
+  padding: 25px 0px;
+}
+.card {
+  box-shadow: 0 0 10px #dde2e8;
+}
